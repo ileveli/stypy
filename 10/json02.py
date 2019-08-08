@@ -8,3 +8,5 @@ student = [
 json_str = json.dumps(student)
 
 print(json_str)
+
+#NOSQL,MONGODB 序列化存储
